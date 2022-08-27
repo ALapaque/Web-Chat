@@ -1,0 +1,34 @@
+{
+  "messages": [
+    {
+      "text": "Hello!",
+      "name": "ADMIN",
+      "id": "abcd01"
+    },
+    {
+      "text": "Welcome to my chat application!💃🏻",
+      "name": "ADMIN",
+      "id": "abcd01"
+    },
+    {
+      "text": "You can start chatting!📲",
+      "name": "ADMIN",
+      "id": "abcd01"
+    },
+    {
+      "text": "hey",
+      "name": "Amaury",
+      "id": "7g5NjNCzgCtuV23wAAAB0.9644476242554327"
+    },
+    {
+      "text": "ça va ?",
+      "name": "Amaury",
+      "id": "Vm3pgFTzbXohrOKeAAAD0.20991839945535995"
+    },
+    {
+      "text": "Super et toi ?",
+      "name": "Amaury",
+      "id": "4zueZnYNqlsylW5uAAAB0.2535950684392112"
+    }
+  ]
+}
